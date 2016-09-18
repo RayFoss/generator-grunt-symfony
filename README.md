@@ -89,8 +89,8 @@ MIT
 [npm-url]: https://npmjs.org/package/generator-grunt-symfony
 [npm-image]: https://badge.fury.io/js/generator-grunt-symfony.svg
 
-[travis-url]: https://travis-ci.org/bezoerb/generator-grunt-symfony
-[travis-image]: https://secure.travis-ci.org/bezoerb/generator-grunt-symfony.svg?branch=master
+[travis-url]: https://travis-ci.org/rayfoss/generator-grunt-symfony
+[travis-image]: https://secure.travis-ci.org/rayfoss/generator-grunt-symfony.svg?branch=master
 
 [depstat-url]: https://david-dm.org/bezoerb/generator-grunt-symfony
 [depstat-image]: https://david-dm.org/bezoerb/generator-grunt-symfony.svg
